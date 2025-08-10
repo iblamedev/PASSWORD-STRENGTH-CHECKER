@@ -10,10 +10,10 @@ BruteSafe is a lightweight Python tool that checks the strength of passwords and
 
 ## 📂 Files
 - `password_checker.py` – Runs the strength analysis and gives security feedback.
-- `password_strength.py` – Contains the core logic for password evaluation.
+- `PasswordStrengthChecker.py` – Contains the core logic for password evaluation.
 
 ## 🚀 Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/brutesafe.git
+   git clone https://github.com/iblamedev/password-strength-checker.git
    cd brutesafe
