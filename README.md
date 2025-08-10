@@ -17,7 +17,7 @@ It comes in **two flavors**:
 
 ## 📂 Files
 - `password_checker.py` – CLI mode.
-- `PasswordStrengthChecker.py` – GUI mode.
+- `brutesafe.py` – GUI mode.
 - `LICENSE` – MIT license for open use.
 
 ---
