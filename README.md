@@ -24,4 +24,4 @@ It comes in **two flavors**:
 
 ## 🚀 Usage
 
-### Can copy and paste in the files and run in any editor.
+### Can copy and paste the files and execute those in any editor.
