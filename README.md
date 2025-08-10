@@ -24,4 +24,4 @@ It comes in **two flavors**:
 
 ##  Usage
 
-### Can copy and paste the files and execute those in any editor.
+### Copy and paste the files in a folder and execute those in any editor.
